@@ -13,6 +13,7 @@
 		A7960FF82556FAB6002F621F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7960FF62556FAB6002F621F /* Main.storyboard */; };
 		A7960FFA2556FAB7002F621F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7960FF92556FAB7002F621F /* Assets.xcassets */; };
 		A7960FFD2556FAB7002F621F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7960FFB2556FAB7002F621F /* LaunchScreen.storyboard */; };
+		A79610102557238D002F621F /* PandaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A796100F2557238D002F621F /* PandaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A7960FF92556FAB7002F621F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7960FFC2556FAB7002F621F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7960FFE2556FAB7002F621F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A796100F2557238D002F621F /* PandaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PandaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A7960FF22556FAB6002F621F /* SceneDelegate.swift */,
 				A7960FF42556FAB6002F621F /* ViewController.swift */,
 				A7960FF62556FAB6002F621F /* Main.storyboard */,
+				A796100F2557238D002F621F /* PandaViewController.swift */,
 				A7960FF92556FAB7002F621F /* Assets.xcassets */,
 				A7960FFB2556FAB7002F621F /* LaunchScreen.storyboard */,
 				A7960FFE2556FAB7002F621F /* Info.plist */,
@@ -140,6 +143,7 @@
 				A7960FF52556FAB6002F621F /* ViewController.swift in Sources */,
 				A7960FF12556FAB6002F621F /* AppDelegate.swift in Sources */,
 				A7960FF32556FAB6002F621F /* SceneDelegate.swift in Sources */,
+				A79610102557238D002F621F /* PandaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
